@@ -1,6 +1,8 @@
 # Encoded Multiplexing Readout Circuits Construction
 
 > The projects is to construction the encoded channel multiplexing scheme for the high spatial resolution detector readout. The related article is [arXiv:2405.12457](https://arxiv.org/abs/2405.12457)
+>
+> [中文帮助手册](readme_zh.md)
 
 # How to use
 
